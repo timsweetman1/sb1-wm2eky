@@ -1,0 +1,12 @@
+ios/
+  HealthSync/
+    Info.plist
+    Launch Screen.storyboard
+    HealthSync.xcodeproj/
+      project.pbxproj
+    HealthSyncApp.swift
+    ContentView.swift
+    WebViewStore.swift
+    HealthKitManager.swift
+    HealthDataCache.swift
+    HealthSync.entitlements
